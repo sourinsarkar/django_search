@@ -1,3 +1,5 @@
-Full Source Code To An Online Search Engine Like Google Using Django.
+## Django Search
 
-Check Out The Ful Tutorial Here On Youtube: https://www.youtube.com/watch?v=RiOvGoVG49g
+This is a Search Engine built on data top of data sourced by APIs.
+
+Tech stack: Python, Django
